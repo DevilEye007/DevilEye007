@@ -15,14 +15,15 @@
 
 ## 🌟 About Me  
 
-💡 Passionate **Frontend & Mobile Developer** crafting modern & scalable apps  
-🎨 Obsessed with **clean UI, creative animations & smooth UX**  
-⚡ Love mixing **design 🎨 + logic 💡** for impactful products  
-🚀 Exploring **React, Flutter, Firebase & Cloud deployments** daily  
+💡 Passionate **Frontend & Mobile Developer** building sleek, scalable apps  
+🎨 Obsessed with **clean UI, creative animations & delightful UX**  
+⚡ Love blending **Design 🎨 + Logic 💡** to craft impactful products  
+🚀 Currently diving deeper into **React Native, Flutter & Firebase Cloud**  
+🌱 Always curious about **AI in Mobile Apps** & **Modern Web Trends**  
 
 ---
 
-## ⚡ Tech Arsenal  
+## ⚡ Tech Stack  
 
 ### 👨‍💻 Frontend  
 ![HTML5](https://skillicons.dev/icons?i=html) 
@@ -38,17 +39,18 @@
 ![Firebase](https://skillicons.dev/icons?i=firebase)  
 
 ### 🗄️ Database  
-![MongoDB](https://skillicons.dev/icons?i=mongodb)  
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
 
 ### 🛠 Tools & Deployment  
 ![Git](https://skillicons.dev/icons?i=git) 
 ![GitHub](https://skillicons.dev/icons?i=github) 
 ![Vercel](https://skillicons.dev/icons?i=vercel) 
-![Netlify](https://skillicons.dev/icons?i=netlify)  
+![Netlify](https://skillicons.dev/icons?i=netlify) 
+![Figma](https://skillicons.dev/icons?i=figma)  
 
 ---
 
-## 📊 GitHub Analytics  
+## 📊 GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DevilEye007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
@@ -56,10 +58,19 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevilEye007&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevilEye007&theme=tokyonight" alt="GitHub Profile Summary" />
 </p>
 
+---
 
+## 🚀 Featured Projects  
+
+🔹 **Personal Posrtfolio**  
+🛒 Built with React &  Tailwind  
+🌐 [Live Demo](https://faizan-posrfolio.vercel.app/) 
+
+
+---
 
 ## 📫 Connect with Me  
 
