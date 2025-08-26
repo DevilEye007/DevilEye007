@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm Faizan Sultan</h1>
-<h3 align="center">🚀 Frontend Developer | Creative Designer | Problem Solver</h3>
+<h1 align="center">Hey 👋, I'm <span style="color:#58a6ff">Faizan Sultan</span></h1>
+<h3 align="center">🚀 Frontend & Mobile Developer | 🎨 Creative Designer | 🧩 Problem Solver</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;Mobile+App+Developer;Creative+UI%2FUX+Designer;Always+Learning+New+Tech" alt="Typing Animation" />
+</p>
 
 <p align="center">
   <a href="https://faizan-posrfolio.vercel.app/"><img src="https://img.shields.io/badge/🌐 Portfolio-Visit-blueviolet?style=for-the-badge&logo=vercel" /></a>
@@ -11,60 +15,51 @@
 
 ## 🌟 About Me  
 
-💡 Passionate **Frontend & Mobile Developer** who builds modern & performant apps  
-🎨 Focused on **clean UI, creative design & seamless user experiences**  
-⚡ Strong believer in combining **creativity ✨ + logic 💡**  
-🚀 Always learning and exploring **new frameworks & tools**  
+💡 Passionate **Frontend & Mobile Developer** crafting modern & scalable apps  
+🎨 Obsessed with **clean UI, creative animations & smooth UX**  
+⚡ Love mixing **design 🎨 + logic 💡** for impactful products  
+🚀 Exploring **React, Flutter, Firebase & Cloud deployments** daily  
 
 ---
 
-## ⚡ Tech Stack  
+## ⚡ Tech Arsenal  
 
 ### 👨‍💻 Frontend  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)  
+![HTML5](https://skillicons.dev/icons?i=html) 
+![CSS3](https://skillicons.dev/icons?i=css) 
+![JavaScript](https://skillicons.dev/icons?i=js) 
+![React](https://skillicons.dev/icons?i=react) 
+![TailwindCSS](https://skillicons.dev/icons?i=tailwind) 
+![Flutter](https://skillicons.dev/icons?i=flutter)  
 
 ### ⚙️ Backend  
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) 
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) 
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
+![Node.js](https://skillicons.dev/icons?i=nodejs) 
+![Express](https://skillicons.dev/icons?i=express) 
+![Firebase](https://skillicons.dev/icons?i=firebase)  
 
 ### 🗄️ Database  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
+![MongoDB](https://skillicons.dev/icons?i=mongodb)  
 
 ### 🛠 Tools & Deployment  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) 
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)  
-
----
-
-## 📂 Contact Me  
-
-🔗 [Portfolio – DESLOG](https://faizan-posrfolio.vercel.app/)
+![Git](https://skillicons.dev/icons?i=git) 
+![GitHub](https://skillicons.dev/icons?i=github) 
+![Vercel](https://skillicons.dev/icons?i=vercel) 
+![Netlify](https://skillicons.dev/icons?i=netlify)  
 
 ---
 
 ## 📊 GitHub Analytics  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevilEye007&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DevilEye007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=DevilEye007&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=DevilEye007&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevilEye007&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevilEye007&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
 
----
 
 ## 📫 Connect with Me  
 
@@ -76,4 +71,10 @@
 
 ---
 
-⭐️ From [Faizan Sultan](https://github.com/DevilEye007)
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+---
+
+⭐ From [Faizan Sultan](https://github.com/DevilEye007)
