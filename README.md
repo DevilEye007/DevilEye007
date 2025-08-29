@@ -1,3 +1,5 @@
+<meta name="google-site-verification" content="aYGHpYGVtJE37YZQO5mjv7JL4U5FWZGpcBhme0OYvsI" />
+
 <h1 align="center">Hey 👋, I'm <span style="color:#58a6ff">Faizan Sultan</span></h1>
 <h3 align="center">🚀 Frontend & Mobile Developer | 🎨 Creative Designer | 🧩 Problem Solver</h3>
 
