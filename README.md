@@ -1,7 +1,9 @@
 <meta name="google-site-verification" content="aYGHpYGVtJE37YZQO5mjv7JL4U5FWZGpcBhme0OYvsI" />
+<meta name="description" content="Faizan Sultan - Frontend & Mobile Developer | React, Flutter, Firebase | Creative UI/UX Designer">
 
 <h1 align="center">Hey 👋, I'm <span style="color:#58a6ff">Faizan Sultan</span></h1>
 <h3 align="center">🚀 Frontend & Mobile Developer | 🎨 Creative Designer | 🧩 Problem Solver</h3>
+<h3 align="center">✨ Turning Ideas into Interactive Experiences ✨</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;Mobile+App+Developer;Creative+UI%2FUX+Designer;Always+Learning+New+Tech" alt="Typing Animation" />
@@ -11,6 +13,7 @@
   <a href="https://faizan-posrfolio.vercel.app/"><img src="https://img.shields.io/badge/🌐 Portfolio-Visit-blueviolet?style=for-the-badge&logo=vercel" /></a>
   <a href="https://github.com/DevilEye007"><img src="https://img.shields.io/github/followers/DevilEye007?label=Follow&style=for-the-badge&logo=github" /></a>
   <a href="mailto:fs6700408@gmail.com"><img src="https://img.shields.io/badge/📩 Email-Me-red?style=for-the-badge&logo=gmail" /></a>
+  <img src="https://komarev.com/ghpvc/?username=DevilEye007&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </p>
 
 ---
@@ -67,10 +70,19 @@
 
 ## 🚀 Featured Projects  
 
-🔹 **Personal Posrtfolio**  
-🛒 Built with React &  Tailwind  
-🌐 [Live Demo](https://faizan-posrfolio.vercel.app/) 
+### 🔹 Personal Portfolio
+💻 Built with **React & Tailwind**  
+🌐 [Live Demo](https://faizan-posrfolio.vercel.app/)  
 
+### 🔹 ChatX - Real-Time Chat App
+💬 Built with **Flutter & Firebase**  
+⚙️ Features: Emotion Detection, Scheduled Messaging, and File Sharing  
+🌐 [GitHub](https://github.com/DevilEye007/ChatX)  
+
+### 🔹 Expense Tracker
+📊 Built with **ReactJS, Node.js & MongoDB**  
+💾 Track daily expenses with clean UI & CRUD functionality  
+🌐 [Live Demo](https://your-live-demo-link)  
 
 ---
 
@@ -78,7 +90,7 @@
 
 <p align="center">
   <a href="https://faizan-posrfolio.vercel.app/"><img src="https://img.shields.io/badge/🌐 Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/💼 LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/faizan-sultan007"><img src="https://img.shields.io/badge/💼 LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:fs6700408@gmail.com"><img src="https://img.shields.io/badge/📩 Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
