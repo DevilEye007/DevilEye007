@@ -94,6 +94,3 @@ A modern, responsive portfolio built with React and TailwindCSS.
 ### **From: Faizan Sultan**
 
 [GitHub Profile](https://github.com/DevilEye007)
-
-
-Just tell me your preferred style!
