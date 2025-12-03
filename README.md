@@ -1,219 +1,126 @@
 <meta name="google-site-verification" content="aYGHpYGVtJE37YZQO5mjv7JL4U5FWZGpcBhme0OYvsI" />
 
-<div class="portfolio-container">
-  <div class="hero-section">
-    <div class="hero-content">
-      <div class="name-title">
-        <h1 class="gradient-text">Faizan Sultan</h1>
-        <div class="title-container">
-          <span class="title-badge">Frontend Developer</span>
-          <span class="title-badge">Mobile Developer</span>
-          <span class="title-badge">UI/UX Designer</span>
-        </div>
-      </div>
+<h1 align="center" style="font-weight:700">Faizan Sultan</h1>
+<h3 align="center" style="color:#58a6ff; font-weight:500">
+Frontend & Mobile Developer • Creative Designer • Problem Solver
+</h3>
 
-      <div class="typing-animation">
-        <span class="typing-line">Building immersive digital experiences</span>
-        <span class="typing-line">Crafting pixel-perfect interfaces</span>
-        <span class="typing-line">Transforming ideas into reality</span>
-      </div>
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=2600&pause=1100&color=58A6FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;Mobile+App+Developer;Creative+UI%2FUX+Designer;Building+Modern+Digital+Experiences" 
+    alt="Typing Animation" 
+  />
+</p>
 
-      <p class="hero-description">
-        Passionate developer focused on creating elegant, performant applications 
-        with modern technologies. Specializing in frontend development and mobile 
-        applications with attention to detail and user experience.
-      </p>
+<p align="center">
+  <a href="https://faizan-posrfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://github.com/DevilEye007">
+    <img src="https://img.shields.io/github/followers/DevilEye007?label=Follow&style=for-the-badge&logo=github" />
+  </a>
+  <a href="mailto:fs6700408@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-      <div class="cta-buttons">
-        <a href="https://faizan-posrfolio.vercel.app/" class="btn primary-btn">
-          View Portfolio
-          <svg class="btn-icon" viewBox="0 0 24 24">
-            <path d="M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z"/>
-          </svg>
-        </a>
-        <a href="mailto:fs6700408@gmail.com" class="btn secondary-btn">
-          Contact Me
-          <svg class="btn-icon" viewBox="0 0 24 24">
-            <path d="M20 4H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4l-8 5-8-5V6l8 5 8-5v2z"/>
-          </svg>
-        </a>
-      </div>
-    </div>
+---
 
-    <div class="hero-visual">
-      <div class="code-window">
-        <div class="window-header">
-          <div class="window-dots">
-            <span class="dot red"></span>
-            <span class="dot yellow"></span>
-            <span class="dot green"></span>
-          </div>
-          <span class="window-title">portfolio.js</span>
-        </div>
-        <div class="window-content">
-          <pre><code class="language-javascript">
-const developer = {
-  name: "Faizan Sultan",
-  role: "Frontend & Mobile Developer",
-  skills: ["React", "Flutter", "Firebase"],
-  focus: "Clean UI & Performance",
-  philosophy: "Design with purpose, code with passion"
-};
-          </code></pre>
-        </div>
-      </div>
-    </div>
-  </div>
+## About Me
 
-  <!-- ===== TECHNICAL EXPERTISE SECTION ===== -->
-  <div class="section">
-    <h2 class="section-title">Technical Expertise</h2>
-    
-    <div class="skills-grid">
-      <div class="skill-category">
-        <h3 class="skill-category-title">Frontend Development</h3>
-        <div class="skill-items">
-          <div class="skill-item"><span class="skill-name">React</span></div>
-          <div class="skill-item"><span class="skill-name">TypeScript</span></div>
-          <div class="skill-item"><span class="skill-name">Tailwind CSS</span></div>
-        </div>
-      </div>
+I am a **Frontend & Mobile Developer** focused on creating fast, clean, and visually appealing digital experiences.  
+I blend **design thinking + development logic** to craft modern interfaces and smooth user interactions.
 
-      <div class="skill-category">
-        <h3 class="skill-category-title">Mobile Development</h3>
-        <div class="skill-items">
-          <div class="skill-item"><span class="skill-name">React Native</span></div>
-          <div class="skill-item"><span class="skill-name">Flutter</span></div>
-        </div>
-      </div>
+Currently exploring:
 
-      <div class="skill-category">
-        <h3 class="skill-category-title">Backend & Tools</h3>
-        <div class="skill-items">
-          <div class="skill-item"><span class="skill-name">Firebase</span></div>
-          <div class="skill-item"><span class="skill-name">Node.js</span></div>
-          <div class="skill-item"><span class="skill-name">Git</span></div>
-        </div>
-      </div>
-    </div>
-  </div>
+- Advanced **Flutter** & **React Native** techniques  
+- Scalable **Firebase Cloud Architecture**  
+- Integrating **AI-powered features** into mobile applications  
+- Modern, minimal, and functional UI/UX patterns  
 
-  <!-- ===== STATS SECTION ===== -->
-  <div class="section stats-section">
-    <div class="stats-grid">
-      <div class="stat-card"><div class="stat-number" data-count="50">0</div><div class="stat-label">Projects Completed</div></div>
-      <div class="stat-card"><div class="stat-number" data-count="1000">0</div><div class="stat-label">Code Commits</div></div>
-      <div class="stat-card"><div class="stat-number" data-count="15">0</div><div class="stat-label">Technologies</div></div>
-      <div class="stat-card"><div class="stat-number" data-count="2">0</div><div class="stat-label">Years Experience</div></div>
-    </div>
-  </div>
+---
 
-  <!-- ===== PROJECTS SECTION ===== -->
-  <div class="section">
-    <h2 class="section-title">Featured Work</h2>
-    
-    <div class="projects-grid">
-      <div class="project-card">
-        <h3 class="project-title">Portfolio Platform</h3>
-        <p class="project-description">Modern portfolio website with animations.</p>
-        <a href="https://faizan-posrfolio.vercel.app/" class="project-link">View Live Project →</a>
-      </div>
+## Tech Stack
 
-      <div class="project-card">
-        <h3 class="project-title">Mobile Application</h3>
-        <p class="project-description">Cross-platform mobile app with offline support.</p>
-        <a href="#" class="project-link">Case Study →</a>
-      </div>
-    </div>
-  </div>
+### Frontend
+![HTML5](https://skillicons.dev/icons?i=html)
+![CSS3](https://skillicons.dev/icons?i=css)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![React](https://skillicons.dev/icons?i=react)
+![TailwindCSS](https://skillicons.dev/icons?i=tailwind)
+![Flutter](https://skillicons.dev/icons?i=flutter)
 
-  <!-- ===== CONTACT SECTION ===== -->
-  <div class="section contact-section">
-    <h2 class="section-title">Connect With Me</h2>
-    <p class="section-subtitle">Interested in collaboration or have a project in mind?</p>
+### Backend
+![Node.js](https://skillicons.dev/icons?i=nodejs)
+![Express](https://skillicons.dev/icons?i=express)
+![Firebase](https://skillicons.dev/icons?i=firebase)
 
-    <div class="contact-links">
-      <a href="https://github.com/DevilEye007" class="contact-link">GitHub</a>
-      <a href="mailto:fs6700408@gmail.com" class="contact-link">Email</a>
-      <a href="#" class="contact-link">LinkedIn</a>
-    </div>
-  </div>
-</div>
+### Database
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
 
-<style>
-body {
-  font-family: "Inter", sans-serif;
-  background: #0a192f;
-  color: #e6f1ff;
-  margin: 0;
-  padding: 20px;
-}
+### Tools & Deployment
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![Vercel](https://skillicons.dev/icons?i=vercel)
+![Netlify](https://skillicons.dev/icons?i=netlify)
+![Figma](https://skillicons.dev/icons?i=figma)
 
-.portfolio-container {
-  max-width: 1200px;
-  margin: auto;
-}
+---
 
-/* Gradient Text Animation */
-.gradient-text {
-  background: linear-gradient(90deg, #64ffda, #00a8ff, #9d4edd);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  background-size: 200%;
-  animation: gradientMove 3s infinite ease-in-out;
-}
+## GitHub Stats
 
-@keyframes gradientMove {
-  0% { background-position: 0% }
-  50% { background-position: 100% }
-  100% { background-position: 0% }
-}
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=DevilEye007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
+    height="170" 
+  />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com?user=DevilEye007&theme=tokyonight&hide_border=true" 
+    height="170" 
+  />
+</p>
 
-/* Grid Layout */
-.hero-section {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 60px;
-  align-items: center;
-  padding-top: 40px;
-}
+<p align="center">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevilEye007&theme=tokyonight" 
+  />
+</p>
 
-.title-badge {
-  background: rgba(100, 255, 218, 0.1);
-  padding: 5px 12px;
-  border-radius: 8px;
-  color: #64ffda;
-  margin-right: 8px;
-  display: inline-block;
-}
+---
 
-/* Project Cards */
-.project-card {
-  background: #112240;
-  padding: 25px;
-  border-radius: 16px;
-  transition: 0.3s ease;
-}
-.project-card:hover {
-  transform: translateY(-5px);
-  background: #0f1e35;
-}
+## Featured Project
 
-/* Stats */
-.stat-card {
-  text-align: center;
-}
-.stat-number {
-  font-size: 40px;
-  color: #64ffda;
-  font-weight: 700;
-}
+### Personal Portfolio  
+A clean and modern portfolio built using **React + TailwindCSS**.
 
-/* Responsive */
-@media (max-width: 768px) {
-  .hero-section {
-    grid-template-columns: 1fr;
-    text-align: center;
-  }
-}
-</style>
+**Live Demo:**  
+https://faizan-posrfolio.vercel.app/
+
+---
+
+## Connect
+
+<p align="center">
+  <a href="https://faizan-posrfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/your-linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:fs6700408@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img 
+    src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" 
+    alt="Contribution Snake Animation" 
+  />
+</p>
+
+---
+
+### Created & Maintained by [Faizan Sultan](https://github.com/DevilEye007)
