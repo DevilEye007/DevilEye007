@@ -56,7 +56,7 @@ Focused on building real-world projects using React, Flutter, and modern web tec
 ## **GitHub Stats**
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=DevilEye007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=DevilEye007&theme=tokyonight&show_icons=true" />
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=DevilEye007&theme=tokyonight&hide_border=true">
 </p>
 
